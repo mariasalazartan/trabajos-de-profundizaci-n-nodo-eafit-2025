@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\bin\Debug\net9.0\calculadora  Alejandra.exe
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\bin\Debug\net9.0\calculadora  Alejandra.deps.json
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\bin\Debug\net9.0\calculadora  Alejandra.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\bin\Debug\net9.0\calculadora  Alejandra.dll
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\bin\Debug\net9.0\calculadora  Alejandra.pdb
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.dll
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\refint\calculadora  Alejandra.dll
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.pdb
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\calculadora  Alejandra.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\calculadora  Alejandra\obj\Debug\net9.0\ref\calculadora  Alejandra.dll
