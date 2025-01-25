@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\bin\Debug\net9.0\CalculadoraSalarios Alejandra.exe
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\bin\Debug\net9.0\CalculadoraSalarios Alejandra.deps.json
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\bin\Debug\net9.0\CalculadoraSalarios Alejandra.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\bin\Debug\net9.0\CalculadoraSalarios Alejandra.dll
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\bin\Debug\net9.0\CalculadoraSalarios Alejandra.pdb
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.dll
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\refint\CalculadoraSalarios Alejandra.dll
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.pdb
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\CalculadoraSalarios Alejandra.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CalculadoraSalarios Alejandra\obj\Debug\net9.0\ref\CalculadoraSalarios Alejandra.dll
