@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rick & Morty Battles</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      .swipe-animation {
+        transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+      }
+      .swipe-like {
+        transform: translateX(300px) rotate(15deg) scale(0.8);
+        opacity: 0;
+      }
+      .swipe-dislike {
+        transform: translateX(-300px) rotate(-15deg) scale(0.8);
+        opacity: 0;
+      }
+      .battle-animation {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        overflow: hidden;
+      }
+      .fighter {
+        position: relative;
+        animation: bounce 1s ease-in-out infinite alternate;
+      }
+      .attack {
+        animation: attack 0.5s ease-out forwards;
+      }
+      @keyframes bounce {
+        0% {
+          transform: translateY(0);
+        }
+        100% {
+          transform: translateY(-15px);
+        }
+      }
+      @keyframes attack {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(50px) scale(1.2);
+        }
+      }
+    </style>
+  </head>
+  <body
+    class="min-h-screen bg-gray-900 text-white flex items-center justify-center p-10"
+  >
+    <div class="w-full max-w-md text-center">
+      <h1 class="text-4xl font-bold mb-10">Rick & Morty Battles</h1>
+      <div
+        id="card-container"
+        class="relative w-full h-96 overflow-hidden rounded-2xl shadow-lg bg-gray-800"
+      ></div>
+      <div class="mt-6 space-x-4">
+        <button
+          id="dislike"
+          class="bg-red-500 px-6 py-2 rounded-lg shadow-lg hover:bg-red-600"
+        >
+          Dislike
+        </button>
+        <button
+          id="like"
+          class="bg-green-500 px-6 py-2 rounded-lg shadow-lg hover:bg-green-600"
+        >
+          Like
+        </button>
+        <button
+          id="fight"
+          class="bg-blue-500 px-6 py-2 rounded-lg shadow-lg hover:bg-blue-600"
+        >
+          Battle
+        </button>
+      </div>
+      <div class="mt-10">
+        <h2 class="text-2xl mb-4">Liked Characters</h2>
+        <ul id="liked-list" class="space-y-2 text-left"></ul>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
