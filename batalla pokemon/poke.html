@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Batalla Pokémon</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script
+      defer
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"
+    ></script>
+    <link rel="stylesheet" href="poke.css" />
+    <script defer src="poke.js"></script>
+  </head>
+  <body
+    class="bg-gray-900 text-white flex items-center justify-center min-h-screen"
+  >
+    <div class="container mx-auto text-center">
+      <img src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png" alt="PokeAPI Logo" class="mx-auto mb-6" style="width: 256px;" />
+
+      <div class="grid grid-cols-2 gap-4">
+        <!-- Pokémon 1 -->
+        <div>
+          <label class="block text-lg">Selecciona tu pokemon:</label>
+          <select
+            id="pokemon1-select"
+            class="px-2 py-1 text-black rounded"
+          ></select>
+          <div id="pokemon1" class="mt-4"></div>
+        </div>
+
+        <!-- Pokémon 2 -->
+        <div>
+          <label class="block text-lg">Selecciona tu pokemon:</label>
+          <select
+            id="pokemon2-select"
+            class="px-2 py-1 text-black rounded"
+          ></select>
+          <div id="pokemon2" class="mt-4"></div>
+        </div>
+      </div>
+
+      <button
+        id="fight"
+        class="bg-green-500 px-6 py-3 rounded mt-6 text-xl font-bold hidden"
+      >
+        ¡Luchar!
+      </button>
+
+      <div id="battle-log" class="mt-6 text-lg font-mono"></div>
+    </div>
+  </body>
+</html>
